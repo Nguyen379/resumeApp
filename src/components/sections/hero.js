@@ -69,11 +69,6 @@ const Hero = () => {
       <p>
         I'm a junior at Truman State University, studying Computer Science with a minor in
         Mathematics.
-        {/* {' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        . */}
       </p>
     </>
   );
