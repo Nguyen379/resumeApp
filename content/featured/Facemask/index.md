@@ -2,7 +2,7 @@
 date: '1'
 title: 'Face Mask Detector'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/halcyon-site'
+github: 'https://github.com/Nguyen379/Mask_detection'
 external: 'https://github.com/Nguyen379/Mask_detection'
 tech:
   - Tensorflow
