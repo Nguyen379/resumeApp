@@ -1,11 +1,11 @@
 {
   "name": "v4",
-  "description": "Nguyen Le resume",
+  "description": "Personal Website V4",
   "version": "1.0.0",
-  "author": "Nguyen Le <anhnguyenle379@gmail.com>",
+  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Nguyen379/resumeApp"
+    "url": "https://github.com/bchiang7/v4"
   },
   "keywords": [
     "gatsby"
