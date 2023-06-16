@@ -135,25 +135,28 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hi! My name is Nguyen. I am an international student from Vietnam with diverse skills
-              in Tensorflow, Rshiny and ReactJs. I am looking for a SWE internship for Summer 2024.
+              Hi! I'm Nguyen, an international student from Vietnam, proficient in a diverse range
+              of technologies such as Tensorflow, Rshiny, and ReactJs. My objective is to secure a
+              Software Engineering (SWE) internship for the summer of 2024.
             </p>
 
             <p>
-              This summer, I am working as a Visiting Program Trainee at Washington University. I
-              mainly work with Rshiny to build{' '}
-              <a href="https://github.com/Nguyen379/amlviz">a web application</a> for biochemists to
-              visualize data.
+              Currently, I am working as a Visiting Program Trainee at Washington University, where
+              I am primarily engaged in developing a{' '}
+              <a href="https://github.com/Nguyen379/amlviz">a web application</a> using Rshiny. This
+              application is designed to assist biochemists in visualizing and analyzing their data
+              effectively.
             </p>
-
             <p>
-              My past projects include{' '}
+              Some of my notable past projects are{' '}
               <a href="https://www.newline.co/courses/build-a-spotify-connected-app">Animegram</a> -
-              an Instagram clone for anime enthusiasts - that NodeJS and Firebase, and{' '}
+              an Instagram clone for anime enthusiasts - that leveraged NodeJS and Firebase to
+              create a dynamic and interactive platform;{' '}
               <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
                 Mask Dectector
               </a>{' '}
-              using Tensorflow and Matplotlib to compare which model performed the best.
+              which can detect whether individuals are wearing masks and adhering to the 6 feet
+              social distancing COVID-19 guideline using Tensorflow and Matplotlib.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
