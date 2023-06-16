@@ -1,4 +1,4 @@
-Resume website designed by Brittany Chiang and built by Nguyen Le
+Resume website built by Nguyen Le and designed by Brittany Chiang.
 
 ## 🛠 Installation & Set Up
 
